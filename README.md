@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariprasad-manchikatla)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HariMKL-oss)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariprasad@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mamaseal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://labelsentinel.vercel.app)
 
 <img src="https://komarev.com/ghpvc/?username=HariMKL-oss&color=1F6FEB&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
@@ -35,7 +35,7 @@ focus_areas:
   - Full-Stack AI Application Development
 
 currently_building:
-  - MAMASeal — AI-powered nutritional intelligence platform for AR smart glasses
+  - LabelSentinel — AI-powered nutritional intelligence platform for AR smart glasses
   - Intelligent automation systems using LLMs and computer vision
 
 philosophy: "I don't just build models — I build intelligent systems that ship to production."
@@ -88,14 +88,14 @@ philosophy: "I don't just build models — I build intelligent systems that ship
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [MAMASeal](https://github.com/HariMKL-oss/MAMASeal)
+### 🛡️ [LabelSentinel](https://github.com/HariMKL-oss/LabelSentinel)
 **AI-Powered Nutritional Intelligence Platform**
 
 Automated food safety auditing system designed for Meta's AR smart glasses. Uses real-time computer vision, on-device LLMs, and deterministic clean-label filtering to deliver instant verdicts on packaged food products.
 
 `Computer Vision` `LLMs` `React` `TypeScript` `AR`
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-16A34A?style=flat-square)](https://mamaseal.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-16A34A?style=flat-square)](https://labelsentinel.vercel.app)
 ![Status](https://img.shields.io/badge/Status-Patent_Pending-FFD700?style=flat-square)
 
 </td>
